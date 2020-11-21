@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"POT-Creation-Date: 2016-12-09 11:37+CST\n"
+"Last-Translator:Li Guangyou <li.guangyou@eisoo.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+msgid "ID_JOB_NOT_EXITS"
+msgstr "任务不存在"
+
+msgid "ID_LOG_GROUP_NOT_SET"
+msgstr "未设置日志分组"
+
+msgid "ID_TIMERANGE_NOT_SET"
+msgstr "未设置时间范围"
+
+msgid "ID_SEARCH_QUERYT_NOT_SET"
+msgstr "未设置搜索语句"
+
+msgid "ID_FIELD_SORT_ERROR"
+msgstr "字段排序关键字设置错误，必须为'asc'或'desc'"
+
+msgid "ID_ERROR_UNKONWN"
+msgstr "未知错误, 异常: %s"
+
+msgid "ID_GET_INDEX_FAILED"
+msgstr "获取索引失败，异常：%s"
+
+msgid "ID_ES_SEARCH_FAILED"
+msgstr "Easticsearch查询失败，异常：%s"
+
+msgid "ID_JOB_EXEC_FAILED"
+msgstr "任务执行失败，异常：%s"

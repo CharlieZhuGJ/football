@@ -1,0 +1,14 @@
+msgid "SUCCESS"
+msgstr "成功"
+
+msgid "FAILED"
+msgstr "失败"
+
+msgid "WARN"
+msgstr "警告"
+
+msgid "INFO"
+msgstr "信息"
+
+
+
