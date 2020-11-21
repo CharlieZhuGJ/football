@@ -1,4 +1,5 @@
-FROM 192.168.84.23:5000/library/anyrobot-manager-baseimage:latest
+FROM python:3.8
 
-MAINTAINER anyrobot-search Docker Maintainers "lu.yuan@eisoo.com"
+MAINTAINER server Docker Maintainers "charlie7zhu@outlook.com"
 
+RUN pip install -r requirements.txt
